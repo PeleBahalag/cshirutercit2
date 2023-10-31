@@ -1,3 +1,3 @@
 # lomdot
 
-https://pelebahalag.github.io/cshirootTest/index.html
+https://pelebahalag.github.io/cshirutercit2/index.html
